@@ -1,0 +1,14 @@
+.control-button {
+    height: 100px;
+    cursor: pointer;
+    border-radius: 15%;
+    .apparatus-percent {
+        text-align: right;
+    }
+    .apparatus-name {
+        text-align: center;
+    }
+    .apparatus-volumn {
+        text-align: left;
+    }
+}

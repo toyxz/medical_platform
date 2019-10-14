@@ -1,0 +1,4 @@
+# 忽略指定文件夹
+asset/data
+node_modules
+.git

@@ -1,0 +1,13 @@
+.loading-wrapping {
+    width: 1440px;
+    height: 800px;
+    .loading {
+        font-size: 20px;
+        font-weight: bolder;
+        color: #000000;
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        right: 50%;
+    }
+}

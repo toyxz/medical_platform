@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Project Name="工程.p3xe">
+<NodeList NodeCount="15">
+<Node Caption="" ID="0" FatherID="-1" DataNodeType="0">
+<Data Value="175M">
+<DataPath PathType="0">e:\外来数据\郑辉娥_p\7._body_1.0_ce-15-14_f351\8_7.dcm</DataPath>
+<FileName>7._body_1.0_ce-15-14_f351</FileName>
+<FileType>dicom</FileType>
+<ReadMethod>ImageData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">7._body_1.0_ce-15-14_f351</Property>
+<Property Name="opacity">0</Property>
+<Property Name="mask_bit">0</Property>
+<Property Name="color"/>
+<Property Name="Series Instance UID">1.2.392.200036.9116.2.5.1.48.1221398615.1563774927.20361</Property>
+<Property Name="dcmtype">CT -1.0mm -SN15</Property>
+<Property Name="position">159.875,159.875,179.2109375</Property>
+<Property Name="organ_name"/>
+<Property Name="window">400 </Property>
+<Property Name="level">40</Property>
+<Property Name="visible">0</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="1" FatherID="-1" DataNodeType="0">
+<Data Value="175M">
+<DataPath PathType="0">e:\外来数据\郑辉娥_p\12._body_1.0-6-1000_f351\13_12.dcm</DataPath>
+<FileName>12._body_1.0-6-1000_f351</FileName>
+<FileType>dicom</FileType>
+<ReadMethod>ImageData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">12._body_1.0-6-1000_f351</Property>
+<Property Name="opacity">0</Property>
+<Property Name="mask_bit">0</Property>
+<Property Name="color"/>
+<Property Name="Series Instance UID">1.2.392.200036.9116.2.5.1.48.1221398615.1563774319.50076</Property>
+<Property Name="dcmtype">CT -1.0mm -SN6 </Property>
+<Property Name="position">159.875,159.875,216.813232421875</Property>
+<Property Name="organ_name"/>
+<Property Name="window">400 </Property>
+<Property Name="level">40</Property>
+<Property Name="visible">0</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="2" FatherID="-1" DataNodeType="0">
+<Data Value="175M">
+<DataPath PathType="0">e:\外来数据\郑辉娥_p\14._body_1.0_ce-8-11_f351\15_14.dcm</DataPath>
+<FileName>14._body_1.0_ce-8-11_f351</FileName>
+<FileType>dicom</FileType>
+<ReadMethod>ImageData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">14._body_1.0_ce-8-11_f351</Property>
+<Property Name="opacity">-21474836.48</Property>
+<Property Name="mask_bit">0</Property>
+<Property Name="color"/>
+<Property Name="Series Instance UID">1.2.392.200036.9116.2.5.1.48.1221398615.1563774497.972546</Property>
+<Property Name="dcmtype">CT -1.0mm -SN8 </Property>
+<Property Name="position">159.875,159.875,235.21435546875</Property>
+<Property Name="organ_name"/>
+<Property Name="window">400 </Property>
+<Property Name="level">40</Property>
+<Property Name="visible">0</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="3" FatherID="-1" DataNodeType="0">
+<Data Value="175M">
+<DataPath PathType="0">e:\外来数据\郑辉娥_p\17._body_1.0_ce-9-12_f351\15_14.dcm</DataPath>
+<FileName>17._body_1.0_ce-9-12_f351</FileName>
+<FileType>dicom</FileType>
+<ReadMethod>ImageData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">17._body_1.0_ce-9-12_f351</Property>
+<Property Name="opacity">0</Property>
+<Property Name="mask_bit">20</Property>
+<Property Name="color"/>
+<Property Name="Series Instance UID">1.2.392.200036.9116.2.5.1.48.1221398615.1563774624.556527</Property>
+<Property Name="dcmtype">CT -1.0mm -SN9 </Property>
+<Property Name="position">171.875,103.75,208.0126953125</Property>
+<Property Name="organ_name"/>
+<Property Name="window">400 </Property>
+<Property Name="level">40</Property>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="8" FatherID="3" DataNodeType="2">
+<Data Value="1.9M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>肾脏</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">肾脏</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">0</Property>
+<Property Name="color">0.698038995265961,0.133332997560501,0.133332997560501</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="10" FatherID="3" DataNodeType="2">
+<Data Value="2.9M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>脾脏</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">脾脏</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">18</Property>
+<Property Name="color">1,0.627451002597809,0.478430986404419</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name">单步分割</Property>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="14" FatherID="3" DataNodeType="2">
+<Data Value="1.6M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>胰腺</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">胰腺</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">0</Property>
+<Property Name="color">0.854902029037476,0.63137298822403,0</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name">单步分割</Property>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="22" FatherID="3" DataNodeType="2">
+<Data Value="4.5M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>腔静脉</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">腔静脉</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">317507968</Property>
+<Property Name="color">0,0,1</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="32" FatherID="3" DataNodeType="2">
+<Data Value="2.8M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>占位</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">占位</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">317512608</Property>
+<Property Name="color">0.741176009178162,0.717647016048431,0.419607996940613</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name">单步分割</Property>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="39" FatherID="3" DataNodeType="2">
+<Data Value="3M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>肝脏</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">肝脏</Property>
+<Property Name="opacity">0.4</Property>
+<Property Name="mask_bit">18</Property>
+<Property Name="color">0.545098006725311,0,0</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="47" FatherID="3" DataNodeType="2">
+<Data Value="1.1M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>胆囊及胆管</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">胆囊及胆管</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">1923866768</Property>
+<Property Name="color">0,0.50196099281311,0</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="72" FatherID="2" DataNodeType="2">
+<Data Value="13.5M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>动脉血管</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">动脉血管</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">-2147368704</Property>
+<Property Name="color">1,0,0</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="96" FatherID="3" DataNodeType="2">
+<Data Value="7.8M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>静脉血管</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">静脉血管</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">-208875328</Property>
+<Property Name="color">0,0,1</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="98" FatherID="3" DataNodeType="2">
+<Data Value="0.3M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>未知血管</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">未知血管</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">-214875392</Property>
+<Property Name="color">0.419607996940613,0.556863009929657,0.137254998087883</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+<Node Caption="" ID="99" FatherID="3" DataNodeType="2">
+<Data Value="20.3M">
+<DataPath PathType="1">ProjectDir</DataPath>
+<FileName>门静脉</FileName>
+<FileType>stl</FileType>
+<ReadMethod>SurfaceData</ReadMethod>
+</Data>
+<PropertyList PropertyCount="11">
+<Property Name="name">门静脉</Property>
+<Property Name="opacity">1</Property>
+<Property Name="mask_bit">-311946528</Property>
+<Property Name="color">0,0.749019980430603,1</Property>
+<Property Name="Series Instance UID"/>
+<Property Name="dcmtype"/>
+<Property Name="position"/>
+<Property Name="organ_name"/>
+<Property Name="window"/>
+<Property Name="level"/>
+<Property Name="visible">1</Property>
+</PropertyList>
+</Node>
+</NodeList>
+</Project>
